@@ -1,8 +1,4 @@
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
-
 Link to project: (https://memory-game-am.glitch.me/)
-
-## Required Functionality
 
 The following functionality is complete:
 
